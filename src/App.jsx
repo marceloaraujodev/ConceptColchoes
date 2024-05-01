@@ -322,7 +322,7 @@ function App() {
               </div>
 
               <div className="footer-content">
-                <div className="footer-title">Formas de Pagemento</div>
+                <div className="footer-title">Formas de Pagamento</div>
                 <div className="footer-content-inner">
                   <div className="icon-container-inner">
                     <img
